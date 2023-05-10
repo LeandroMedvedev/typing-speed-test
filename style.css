@@ -199,7 +199,7 @@ body {
   font-weight: bold;
   color: var(--dark-red);
   background-color: var(--white);
-  border: 10px solid ;
+  border: 10px solid var(--dark-red);
   border-radius: 8px;
   cursor: pointer;
 }
