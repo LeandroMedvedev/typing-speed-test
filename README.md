@@ -1,10 +1,13 @@
 # typing-speed-test ∺  
 
 ### ✎ Resumo
-*Typing Speed Test*, ou Teste de Velocidade de Digitação, é uma pequena aplicação que faz exatamante o que diz seu nome.  
-Há um texto referência (um trava-língua, na verdade, que aprendi com a personagem Maggie interpretada por Bailee Madison,  
-no filme *Esposa de Mentirinha*) que você deve digitar numa caixa de texto. Assim que você inicia a digitação, um cronômetro logo abaixo da caixa de texto é ativado, sendo interrompido assim que sua digitação for exatamente igual a do texto referência.  
-Aplicação desenvolvida enquanto do meu curso de JavaScript pelo  ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)  Learning revendo alguns conceitos de DOM.  
+*Typing Speed Test*, ou Teste de Velocidade de Digitação, é uma pequena aplicação  
+que faz exatamante o que diz seu nome. Há um texto referência (um trava-língua, na  
+verdade, que aprendi com a personagem Maggie interpretada por Bailee Madison, no  
+filme *Esposa de Mentirinha*) que você deve digitar numa caixa de texto. Assim que vo-  
+cê inicia a digitação, um cronômetro logo abaixo da caixa de texto é ativado, sendo in-   
+terrompido assim que sua digitação for exatamente igual a do texto referência. Aplica-  
+ção desenvolvida enquanto do meu curso de JavaScript pelo  ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)  Learning.  
 
 ### ✐ URL  
 https://typing-test-beta.vercel.app/  
