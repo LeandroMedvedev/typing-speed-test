@@ -2,7 +2,7 @@
 
 ### ✎ Resumo
 *Typing Speed Test*, ou Teste de Velocidade de Digitação, é uma pequena aplicação  
-que faz exatamante o que diz seu nome. Há um texto referência (um trava-língua, na  
+que faz exatamente o que diz seu nome. Há um texto referência (um trava-língua, na  
 verdade, que aprendi com a personagem Maggie interpretada por Bailee Madison, no  
 filme *Esposa de Mentirinha*) que você deve digitar numa caixa de texto. Assim que vo-  
 cê inicia a digitação, um cronômetro logo abaixo da caixa de texto é ativado, sendo in-   
